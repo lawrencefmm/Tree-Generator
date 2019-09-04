@@ -10,8 +10,6 @@ const int VerticesNumber = 25;
 const int groupSize = 10; 
 // A higher groupsize means that the diameter will be smaller, and a lower groupsize means the opposite.
 
-std::vector<int> Graph[VerticesNumber + 10];
-
 int main()
 {
 	for(int i = 1; i <= VerticesNumber; i++) vertices.push_back(i);
