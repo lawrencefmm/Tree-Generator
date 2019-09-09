@@ -1,2 +1,2 @@
 # Tree-Generator
-A code for generating random trees.
+A generator of random trees.
